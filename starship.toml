@@ -2,6 +2,55 @@
 
 add_newline = false
 
+
+[os]
+format = "[$symbol]($style)"
+style = "bold blue"
+disabled = false
+
+[os.symbols]
+Alpaquita = "🔔 "
+Alpine = " "
+Amazon = "🙂 "
+Android = " "
+Arch = "󰣇 "
+Artix = " "
+CentOS = "󱄚 "
+Debian = "🌀 "
+DragonFly = "🐉 "
+Emscripten = "🔗 "
+EndeavourOS = " "
+Fedora = " "
+FreeBSD = " "
+Garuda = "🦅 "
+Gentoo = "󰣨 "
+HardenedBSD = "🛡️ "
+Illumos = " "
+Linux = "🐧 "
+Mabox = "📦 "
+Macos = " "
+Manjaro = " "
+Mariner = "🌊 "
+MidnightBSD = "🌘 "
+Mint = "󰣭 "
+NetBSD = "🚩 "
+NixOS = " "
+OpenBSD = " "
+OpenCloudOS = "☁️ "
+openEuler = "🦉 "
+openSUSE = " "
+OracleLinux = "🦴 "
+Pop = " "
+Raspbian = "🍓 "
+Redhat = "🎩 "
+RedHatEnterprise = "󱄛 "
+Redox = "🧪 "
+Solus = " "
+SUSE = "🦎 "
+Ubuntu = "󰕈 "
+Unknown = "OS❓"
+Windows = " "
+
 [shell]
 powershell_indicator = '󰨊'
 bash_indicator = ""
